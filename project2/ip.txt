@@ -1,4 +1,0 @@
-// Nathan Malishev - nmalishev - 637410
-
-IP: 144.6.227.43
-PORT: 3002
